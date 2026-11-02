@@ -1,0 +1,4 @@
+[24-Jan-2020 15:29:36 America/Chicago] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home2/photovk/public_html/tlayudo.com/handler.php on line 9
+[24-Jan-2020 15:29:36 America/Chicago] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/opt/php54/lib/php') in /home2/photovk/public_html/tlayudo.com/handler.php on line 9
+[24-Jan-2020 15:42:55 America/Chicago] PHP Warning:  require_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home2/photovk/public_html/tlayudo.com/handler.php on line 9
+[24-Jan-2020 15:42:55 America/Chicago] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/opt/php54/lib/php') in /home2/photovk/public_html/tlayudo.com/handler.php on line 9
